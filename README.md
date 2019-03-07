@@ -1,2 +1,1 @@
-# LabAssignment2
 # MyFirstWebApp
